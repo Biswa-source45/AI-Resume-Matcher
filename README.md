@@ -22,9 +22,9 @@
 | Frontend | Backend | Database | DevOps |
 |----------|---------|----------|---------|
 | ⚛️ React 18 | 🐍 Python 3.9+ | 📊 Supabase | 🔄 Vercel |
-| ⚡ Vite | ⚡ FastAPI | 🔐 JWT | 🐳 Docker |
-| 🎨 TailwindCSS | 🤖 Google Gemini | 🗄️ PostgreSQL | 📦 Git |
-| 📱 Framer Motion | 📄 PyPDF2 | | 🔄 CI/CD |
+| ⚡ Vite | ⚡ FastAPI | 🔐 JWT | 📦 Git |
+| 🎨 TailwindCSS | 🤖 Google Gemini | 🗄️ PostgreSQL  |
+| 📱 Framer Motion | 📄 PyPDF2 | |
 | 📊 Recharts | | | |
 
 
